@@ -1,14 +1,16 @@
-<style>
-        .syntax-chip {
-            background-color: #ECEAE2;
-            border: 1px solid #18181B;
-            padding: 2px 6px;
-            font-weight: 600;
-            color: #DC2626;
-            cursor: pointer;
-            transition: all 0.1s ease;
-            display: inline-block;
-        }
-        .syntax-chip:hover {
-            background-color: #18181B;
-            color: #FDFCFA;
+.syntax-chip {
+    background-color: #ECEAE2;
+    border: 1px solid #18181B;
+    padding: 2px 6px;
+    font-weight: 600;
+    color: #DC2626;
+    cursor: pointer;
+    transition: all 0.1s ease;
+    display: inline-block;
+}
+
+.syntax-chip:hover {
+    background-color: #18181B;
+    color: #FDFCFA;
+}
+
