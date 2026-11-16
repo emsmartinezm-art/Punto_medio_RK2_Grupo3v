@@ -1,3 +1,4 @@
+# Punto Medio - RK2 - Grupo3
 ## Integrantes
 - Laura Riascos - Fundamentos
 - Melanie Castro - Desarrollo
@@ -63,6 +64,7 @@ f(x,y) = x + y; \qquad x_0 = 0; \qquad y_0 = 10; \qquad x_f = 1; \qquad n = 10
 $$
 
 # Enlace público
+https://emsmartinezm-art.github.io/Punto_medio_RK2_Grupo3v/
 
 # Bibliografía
 [1] M. Ayala, "65. Método de Punto Medio (Método particular de Runge Kutta de 2do orden) parte 1," YouTube, 17 de diciembre de 2020. [Archivo de video]. Disponible: https://www.youtube.com/watch?v=VQlkzYMSHzo. [Accedido: Nov. 15, 2026].
