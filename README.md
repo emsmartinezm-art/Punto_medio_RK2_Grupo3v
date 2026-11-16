@@ -70,14 +70,3 @@ $$
 [1] M. Ayala, "65. Método de Punto Medio (Método particular de Runge Kutta de 2do orden) parte 1," YouTube, 17 de diciembre de 2020. [Archivo de video]. Disponible: https://www.youtube.com/watch?v=VQlkzYMSHzo. [Accedido: Nov. 15, 2026].
 
 [2] M. Ayala, "66. Método de punto medio (Método particular de Runge Kutta de 2do orden en excel) parte 2," YouTube, 17 de diciembre de 2020. [Archivo de video]. Disponible: https://www.youtube.com/watch?v=GNuPjChilJQ. [Accedido: Nov. 15, 2026].
-<script type="text/javascript" id="MathJax-script" async
-  src="https://jsdelivr.net">
-</script>
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']]
-    }
-  };
-</script>
