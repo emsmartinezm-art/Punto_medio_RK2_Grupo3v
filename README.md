@@ -1,5 +1,3 @@
-# Punto medio RK2 — Grupo 3
-
 ## Integrantes
 - Laura Riascos - Fundamentos
 - Melanie Castro - Desarrollo
